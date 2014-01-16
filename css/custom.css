@@ -1,0 +1,33 @@
+body {
+	font-family: 'Rokkitt', serif;
+	background-color: #333333;
+	color: #ffffff;
+}
+
+.jumbotron {
+	color:#000000;
+	font-family: 'Rokkitt', serif;
+}
+
+.navbar {
+	font-size: 20px;
+}
+
+.navbar-inverse {
+	background-color: #111111;
+}
+
+.navbar-inverse .navbar-brand{
+	color: #1E90FF;
+}
+
+.navbar-brand {
+	font-size: 28px;
+	color: #428bca;
+}
+
+.social-links  a{
+	font-size: 20px;
+	color: #ffffff;
+}
+
