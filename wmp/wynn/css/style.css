@@ -313,7 +313,6 @@ hr {
 }
 
 
-
 /* ===========================
 --- Intro
 ============================ */
@@ -366,6 +365,22 @@ hr {
 	color: #fff;
 	text-shadow: -1px 1px 1px #000;
 }
+
+.intro .announcement h2 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 40px;
+}
+
+/* ===========================
+--- Overview
+============================ */
+.overview-text p {
+	color: #FFF;
+	font-size: 25px;
+}
+
 
 
 /* ===========================
